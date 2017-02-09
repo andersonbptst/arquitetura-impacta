@@ -1,0 +1,23 @@
+<diagram program="umletino" version="14.2"><zoom_level>10</zoom_level><help_text>Space for diagram notes
+Component</help_text><element><id>UMLDeployment</id><coordinates><x>50</x><y>0</y><w>380</w><h>310</h></coordinates><panel_attributes>&lt;&lt;client&gt;&gt;
+
+</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLGeneric</id><coordinates><x>80</x><y>250</y><w>290</w><h>30</h></coordinates><panel_attributes>plug-in on-line</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLDeployment</id><coordinates><x>50</x><y>640</y><w>370</w><h>110</h></coordinates><panel_attributes>&lt;&lt;banco de dados&gt;&gt;</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLGeneric</id><coordinates><x>60</x><y>680</y><w>340</w><h>60</h></coordinates><panel_attributes>ORACLE versão 11g R2 ou
+DB2 UDB versão 9.7 ou
+SQL Server versão 2008 R2</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLDeployment</id><coordinates><x>40</x><y>320</y><w>390</w><h>240</h></coordinates><panel_attributes>&lt;&lt;SOLUÇÃO&gt;&gt;
+Name</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLDeployment</id><coordinates><x>50</x><y>370</y><w>360</w><h>180</h></coordinates><panel_attributes>&lt;&lt;SO&gt;&gt;
+Suse Linux Enterprise Server 11 SP2 ou
+Red Hat Enterprise Linux 6.2 ou 
+Windows Server 2008 R2</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLGeneric</id><coordinates><x>60</x><y>450</y><w>330</w><h>90</h></coordinates><panel_attributes>&lt;&lt;Container Web&gt;&gt;
+JEE 5</panel_attributes><additional_attributes></additional_attributes></element><element><id>Relation</id><coordinates><x>210</x><y>530</y><w>80</w><h>100</h></coordinates><panel_attributes>Conector</panel_attributes><additional_attributes>10;80;10;10</additional_attributes></element><element><id>UMLDeployment</id><coordinates><x>60</x><y>40</y><w>350</w><h>260</h></coordinates><panel_attributes>&lt;&lt;SO&gt;&gt;
+MS - Windows XP ou
+MS - Windows Vista Business ou
+Seven Professional (32 e 64 bits) ou 
+SuSE GNU/Linux Enterprise SLES 12.1 (32 e 64 bits) ou
+GNU/Linux openSUSE 11.1 (32 e 64 bits)</panel_attributes><additional_attributes></additional_attributes></element><element><id>Relation</id><coordinates><x>210</x><y>270</y><w>30</w><h>200</h></coordinates><panel_attributes></panel_attributes><additional_attributes>10;10;10;180</additional_attributes></element><element><id>UMLDeployment</id><coordinates><x>50</x><y>770</y><w>370</w><h>110</h></coordinates><panel_attributes>&lt;&lt;banco de dados&gt;&gt;</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLGeneric</id><coordinates><x>60</x><y>810</y><w>340</w><h>60</h></coordinates><panel_attributes>ORACLE versão 11g R2 ou
+DB2 UDB versão 9.7 ou
+SQL Server versão 2008 R2</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLGeneric</id><coordinates><x>40</x><y>610</y><w>390</w><h>280</h></coordinates><panel_attributes>lt=.
+cluster</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLDeployment</id><coordinates><x>70</x><y>150</y><w>320</w><h>140</h></coordinates><panel_attributes>&lt;&lt;web browser&gt;&gt;
+Internet ou
+Explorer ou
+Mozilla Firefox ou 
+Google Chrome</panel_attributes><additional_attributes></additional_attributes></element></diagram>
